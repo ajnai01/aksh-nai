@@ -9,3 +9,5 @@ Rating = float(500/100)
 new_list = [media,Titles,generes,years,Description,Rating]
 print (media,Titles,generes,years,Description,Rating)
 
+print(media)
+
